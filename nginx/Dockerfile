@@ -1,4 +1,4 @@
-FROM digitalocean.com/alpine:latest
+FROM alpine:latest
 
 LABEL MAINTAINER="Nome Sobrenome <example@domain.com>"
 
